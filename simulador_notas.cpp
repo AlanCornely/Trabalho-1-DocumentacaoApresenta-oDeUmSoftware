@@ -53,14 +53,15 @@ int main() {
     cout << "----------------------------" << endl;
     cout << "escolha uma opção:"; cin >> menu;
     cout << "----------------------------" << endl;
-
+    
+    //executa a opção de escolha ente sacar ou encerrar o programa
     if (menu == 1){
         sacar();
     } else if (menu == 2){
         cout << "encerrando o programa." << endl;
         return 0;
     } else {
-        cout << "opção invalida" << endl;
+        cout << "opção invalida." << endl;
     }
     //Final do main
     return 0;
