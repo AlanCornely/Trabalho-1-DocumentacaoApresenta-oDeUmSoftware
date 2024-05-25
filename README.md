@@ -35,10 +35,6 @@ Digite o valor desejado e pressione Enter.
 O programa irá simular a saída de notas do caixa eletrônico para o valor inserido e também exibirá a quantidade de notas de cada valor (50, 20, 10, 5 e também de 2).
 
 
-### **Licença Utilizada:**
-
-Este programa é distribuído sob a Licença cc by-sa no qual você pode modificar o conteúdo mas necessita de dar crédito aos criadores e a licença do conteúdo deve ser dada nos mesmos termos do anterior.
-
 **_Esta documentação é fornecida como parte do esforço para facilitar o entendimento e o uso do Simulador de Saída de Notas. Se houver alguma dúvida ou problema, não hesite em entrar em contato com o desenvolvedor através do endereço de e-mail fornecido no cabeçalho._**
 
 ## **Fim da Documentação.**
