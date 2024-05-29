@@ -11,7 +11,7 @@
 
 ## **Use Requirements:**
 ### **System Requirements:**
-C ++ compiler installed (eg G ++)
+C ++ compiler installed ( G ++)
 
 C ++ compiler compatible operating system
 
